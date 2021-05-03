@@ -2,4 +2,14 @@
 
 Sister article: TODO
 
-Run tests: TODO
+Run Java tests:
+
+```
+test_java.sh
+```
+
+Run JavaScript tests:
+
+```
+test_js.sh
+```
