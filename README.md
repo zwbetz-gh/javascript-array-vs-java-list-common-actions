@@ -1,8 +1,8 @@
 # JavaScript Array vs Java List: Common Actions
 
-## Sister Article
+## Sister Links
 
-TODO
+<https://zwbetz.com/javascript-array-vs-java-list-common-actions/>
 
 ## Run Java Tests
 
