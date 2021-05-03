@@ -1,2 +1,5 @@
-# javascript-array-vs-java-list-common-actions
-JavaScript Array vs Java List: Common Actions
+# JavaScript Array vs Java List: Common Actions
+
+Sister article: TODO
+
+Run tests: TODO
