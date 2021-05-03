@@ -17,7 +17,7 @@ test('map', () => {
   expect(actual).toEqual(expected);
 });
 
-test('map', () => {
+test('reduce', () => {
   const arr = [1, 2, 3];
   const actual = arr.reduce((subtotal, el) => subtotal + el);
   const expected = 6;
