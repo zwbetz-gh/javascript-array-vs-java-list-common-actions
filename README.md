@@ -1,14 +1,16 @@
 # JavaScript Array vs Java List: Common Actions
 
-Sister article: TODO
+## Sister Article
 
-Run Java tests:
+TODO
+
+## Run Java Tests
 
 ```
 test_java.sh
 ```
 
-Run JavaScript tests:
+## Run JavaScript Tests
 
 ```
 test_js.sh
